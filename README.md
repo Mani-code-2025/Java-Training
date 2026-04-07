@@ -1,5 +1,9 @@
-# Java-Training
+# Java Training
 
-# Installation and Setup
+## Setup
+- Installation Guide
+- Downloads
 
-# Oops Concepts
+## Core Java
+- Basics
+- OOP Concepts
